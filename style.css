@@ -95,12 +95,13 @@ div.questions p {
 }
 
 div.questions a.btn {
-  border-color:#007bff;
+  border-color: #007bff;
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
   font-size: 20px;
   padding: 18px;
+  text-decoration:none;
 }
 
 div.questions a.btn:hover {
