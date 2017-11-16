@@ -74,6 +74,10 @@ div.jumbotron {
   line-height: 40px;
 }
 
+.jumbotron h1 {
+  font-size: 60px;
+}
+
 div.questions {
   padding-top: 0;
   padding-bottom: 0;
