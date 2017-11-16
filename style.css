@@ -97,6 +97,7 @@ div.questions a.btn {
   color: #FFF;
   background-color: #007bff;
   font-size: 20px;
+  border-radius:.25rem;
 }
 
 div.questions a.btn:hover {
